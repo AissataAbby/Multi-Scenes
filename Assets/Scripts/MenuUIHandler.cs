@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class MenuUIHandler : MonoBehaviour
 {
-    public GameObject ColorPicker;
+    public ColorPicker ColorPicker;
     public void NewColorSelected (Color color)
     {
 
