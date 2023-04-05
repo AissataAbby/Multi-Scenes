@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Main Scene.unity
     guid: 515b388b2603f764c9b9b4e58ae6b7ca
+  - enabled: 0
+    path: Assets/Scenes/Apartment 1.unity
+    guid: 44608cdb9f7cb95ec89e79d082e42b82
   - enabled: 1
     path: Assets/Scenes/Apartment 2.unity
     guid: 3fdce341ce06df1c7908ffe6be159d98

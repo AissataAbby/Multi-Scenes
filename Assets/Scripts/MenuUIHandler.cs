@@ -6,14 +6,14 @@ using UnityEditor;
 
 public class MenuUIHandler : MonoBehaviour
 {
-    public ColorPicker ColorPicker;
+    [SerializeField] ColorPicker ColorPicker;
     public void NewColorSelected (Color color)
     {
 
     }
     // Start is called before the first frame update
 
-    void StartNew()
+    public void StartNew()
     {
         SceneManager.LoadScene(1);
     }
